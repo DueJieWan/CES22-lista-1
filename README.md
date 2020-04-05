@@ -1,4 +1,4 @@
-# CES22-lista-1
+# Aluno: Due Jie Wan
 Lista 1 de exercicio de CES22
-Aluno: Due Jie Wan
+
 
